@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/615831180.svg)](https://zenodo.org/badge/latestdoi/615831180)
 
 # PLS Shiny App
 This app displays RNA sequencing data from human livers of healthy control, NAFLD patients, and cirrhosis patients. 
