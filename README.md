@@ -6,7 +6,7 @@ This app displays RNA sequencing data from human livers of healthy control, NAFL
 ## Local App Launch
 If you wish to view the app online, it is accessible here:
   
-https://weweralbrechtsenlab.shinyapps.io/GCGR_Ab/
+https://weweralbrechtsenlab.shinyapps.io/PLS_Groups/
 
 If you would like to run the app from github, you will need a few R packages:
 
